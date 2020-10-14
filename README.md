@@ -1,2 +1,2 @@
 # PID Position Colntrol
-![](img/position_control_sheme.png)
+![](img/position_control_sheme.svg)
